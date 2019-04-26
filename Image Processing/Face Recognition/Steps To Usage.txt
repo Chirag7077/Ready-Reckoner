@@ -1,0 +1,8 @@
+# Face Recognition Using HAAR_CASCADE OPENCV
+1. pip install -r requirements.txt
+2. python Face_Recognition_Using_HAAR_CASCADE__OpenCV.py
+
+Caution :
+	Download the complete repository as
+	the codes contain dependencies that may
+	be present in some other folder.
